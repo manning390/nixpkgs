@@ -12060,6 +12060,12 @@
     githubId = 1189862;
     name = "Valter Nazianzeno";
   };
+  manning390 = {
+    mail = "michael@manning390.com";
+    github = "manning390";
+    githubId = 4450718;
+    name = "Michael Manning";
+  };
   manojkarthick = {
     email = "smanojkarthick@gmail.com";
     github = "manojkarthick";
